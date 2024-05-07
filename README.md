@@ -1,4 +1,5 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://tushargade-portfolio.netlify.app/)
+[![Braydon's GitHub Banner](![HI, I'M](https://github.com/tushargade01/tushargade01/assets/110712003/b8689556-1d1a-414a-afc7-44bca507ad74)
+)](https://tushargade-portfolio.netlify.app/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://tushargade-portfolio.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/)
