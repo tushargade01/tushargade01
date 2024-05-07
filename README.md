@@ -1,4 +1,4 @@
-[(![HI, I'M](https://github.com/tushargade01/tushargade01/assets/110712003/b8689556-1d1a-414a-afc7-44bca507ad74)
+[![HI, I'M](https://github.com/tushargade01/tushargade01/assets/110712003/b8689556-1d1a-414a-afc7-44bca507ad74)
 ](https://tushargade-portfolio.netlify.app/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://tushargade-portfolio.netlify.app/)
