@@ -1,5 +1,5 @@
-[![HI, I'M](https://github.com/tushargade01/tushargade01/assets/110712003/b8689556-1d1a-414a-afc7-44bca507ad74)
-](https://tushargade-portfolio.netlify.app/)
+[![Uploading image.png…]()](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tushar%20Gade&textBg=false&descAlignY=42)
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://tushargade-portfolio.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/)
