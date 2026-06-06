@@ -12,42 +12,6 @@ I’m tushar, a full-stack engineer, creative coder and self-proclaimed designer
 
 Want to know more about me? [Check out my portfolio.](https://tushargade-portfolio.netlify.app/)
 
-## 📌 Pinned Repositories
-<br>
-
-<a href="https://github.com/tushargade01/chatpdf">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tushargade01&repo=chatpdf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/tushargade01/age-calculator">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tushargade01&repo=age-calculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-
-<a href="https://github.com/tushargade01/python-basic-to-advance/">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tushargade01&repo=python-basic-to-advance&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/tushargade01">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushargade01&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/tushargade01">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tushargade01&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
